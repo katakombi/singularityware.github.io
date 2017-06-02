@@ -4,7 +4,6 @@ category: recipes
 permalink: dolmades-windows-containers
 ---
 
-## Introduction
 Recently I've found several reasons why Windows containers fit in nicely in our Linux-dominated environments:
 
 - You actually do have <a href="https://github.com/CHPC-UofU/Singularity-ubuntu-wine-peakselector" target="_blank"> a scientific application</a> which is exclusively available for windows
